@@ -1,4 +1,4 @@
- ## Дизайн (Figma) и верстка (HTML, CSS, JS).
+ ## Дизайн (Figma) и верстка (HTML, CSS, JS)
 
 
 
